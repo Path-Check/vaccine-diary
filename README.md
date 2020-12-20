@@ -26,7 +26,7 @@ Anna Lysyanskaya - Professor, Brown University
 
 [Safepaths: Vaccine Diary Protocol and Decentralized Vaccine Coordination System using a Privacy Preserving User Centric Experience](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Papers/Vaccine_Diary_ProtocolDec16v1.pdf)
 
-# FAQ
+## FAQ
 
 ### Is the Vaccine  app a replacement for existing CDC or state systems? 
 No. Systems such as VAMS/VAERS/V-Safe/IIS/IZ. are important in wide ranging COVID-19 vaccination efforts. Our proposed app would provide an alternative method for vaccination that is privacy-sparing, efficient, and equitable while serving as a supplemental source of vaccine monitoring information.  
