@@ -1,6 +1,5 @@
 # VaccineDiary
 
-
 ## About
 This repository is a compilation of Trusted Pandemic Technologies' efforts to design digital solutions which engage citizens in four core areas — logistics, health outcomes, user-centric impact, and communication.
 
@@ -10,12 +9,18 @@ Today, the program is focused on creating citizen-centric solutions for the digi
 
 The founding belief of Trusted Pandemic Technologies is that when it comes to engaging citizens in a quest for the common good, especially public health, trust at all levels and among all participants is mandatory for success. The program builds on privacy-preserving systems for smartphone data, analytics, and machine learning.
 
+* [VaccineDiary Mobile App](#vaccinediary-mobile-app)
+* [Vaccine Workflows](#vaccine-workflows)
+* [Dashboard for Health Agencies](#conceptual-dashboard-for-health-agencies)
+* [FAQ](#faq)
+
+### VaccineDiary Mobile App
 ![App_screens](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Vaccine_App_Screens.png)
 
+### Vaccine Workflows
 ![Workflows](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Vaccine_workflows.png)
 
-### Conceptial Dashboard for Health Agencies
-
+### Conceptual Dashboard for Health Agencies
 ![Dashboard](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Dashboard.png)
 
 ## FAQ
