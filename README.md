@@ -14,6 +14,8 @@ The founding belief of Trusted Pandemic Technologies is that when it comes to en
 * [Vaccine Workflows](#vaccine-workflows)
 * [Dashboard for Health Agencies](#conceptual-dashboard-for-health-agencies)
 * [FAQ](#faq)
+* [Leadership](#leadership)
+* [Papers](#papers)
 
 ### Vaccine Workflows
 ![Workflows](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Vaccine_workflows.png)
@@ -80,4 +82,7 @@ Anna Lysyanskaya - Professor, Brown University
 
 [Safepaths: Vaccine Diary Protocol and Decentralized Vaccine Coordination System using a Privacy Preserving User Centric Experience](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Papers/Vaccine_Diary_ProtocolDec16v1.pdf)
 
+## Additional Resources
+
+[Prototypes](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Prototypes.md)
 
