@@ -18,3 +18,8 @@ Sanjay Sarma - Vice President for Open Learning, MIT
 
 Anna Lysyanskaya - Professor, Brown University
 
+## Miscellaneous
+
+[FAQ](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/FAQ.md)
+
+[Prototypes](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Prototypes.md)
