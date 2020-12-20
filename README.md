@@ -32,4 +32,4 @@ Anna Lysyanskaya - Professor, Brown University
 
 [App Prototypes](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Prototypes.md)
 
-[Vaccination verifcation workflows](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Workflows.pdf)
+[Vaccination verification workflows](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Workflows.pdf)
