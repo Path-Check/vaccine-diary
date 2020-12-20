@@ -8,7 +8,7 @@ Today, the program is focused on creating citizen-centric solutions for the digi
 
 The founding belief of Trusted Pandemic Technologies is that when it comes to engaging citizens in a quest for the common good, especially public health, trust at all levels and among all participants is mandatory for success. The program builds on privacy-preserving systems for smartphone data, analytics, and machine learning.
 
-* [Mobile App](#mobile-app)
+* [VaccineDiary Mobile App](#mobile-app)
 * [Vaccine Workflows](#vaccine-workflows)
 * [Dashboard for Health Agencies](#conceptual-dashboard-for-health-agencies)
 * [Proposed Record Card](proposed-vaccination-record-card)
@@ -17,7 +17,7 @@ The founding belief of Trusted Pandemic Technologies is that when it comes to en
 * [Papers](#papers)
 * [Additional Resources](#additional-resources)
 
-### Mobile App
+### VaccineDiary Mobile App
 ![App_screens](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Vaccine_App_Screens.png)
 
 ### Vaccine Workflows
@@ -32,7 +32,7 @@ The founding belief of Trusted Pandemic Technologies is that when it comes to en
 
 ## FAQ
 
-### Is the Vaccine  app a replacement for existing CDC or state systems? 
+### Is the VaccineDiary app a replacement for existing CDC or state systems? 
 No. Systems such as VAMS/VAERS/V-Safe/IIS/IZ. are important in wide ranging COVID-19 vaccination efforts. Our proposed app would provide an alternative method for vaccination that is privacy-sparing, efficient, and equitable while serving as a supplemental source of vaccine monitoring information.  
 
 ### How will this interface with VAMS/VAERS/V-Safe/ IIS/IZ? What changes are required?
