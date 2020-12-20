@@ -12,9 +12,6 @@ The founding belief of Trusted Pandemic Technologies is that when it comes to en
 
 ![App_screens](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Vaccine_App_Screens.png)
 
-
-## Vaccination Verification Workflows
-
 ![Workflows](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Vaccine_workflows.png)
 
 ## FAQ
