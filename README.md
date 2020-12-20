@@ -14,6 +14,8 @@ The founding belief of Trusted Pandemic Technologies is that when it comes to en
 
 ![Workflows](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Vaccine_workflows.png)
 
+![Dashboard](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Dashboard.png)
+
 ## FAQ
 
 ### Is the Vaccine  app a replacement for existing CDC or state systems? 
