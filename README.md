@@ -10,21 +10,12 @@ Today, the program is focused on creating citizen-centric solutions for the digi
 
 The founding belief of Trusted Pandemic Technologies is that when it comes to engaging citizens in a quest for the common good, especially public health, trust at all levels and among all participants is mandatory for success. The program builds on privacy-preserving systems for smartphone data, analytics, and machine learning.
 
-## Leadership
+![App_screens](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Vaccine_App_Screens.png)
 
-Ramesh Raskar - Associate Professor, MIT Media Lab
 
-Sanjay Sarma - Vice President for Open Learning, MIT
+## Vaccination Verification Workflows
 
-Anna Lysyanskaya - Professor, Brown University
-
-## Papers
-
-[Vaccines for All: Challenges and Potential Solutions for Equitable COVID-19 Vaccine Distribution](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Papers/PositionPaper_VaccinesForAllConferenceAtMITDec11th.pdf)
-
-[Verifiable Proof of Health using Public Key Cryptography](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Papers/public_key_crypto.pdf)
-
-[Safepaths: Vaccine Diary Protocol and Decentralized Vaccine Coordination System using a Privacy Preserving User Centric Experience](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Papers/Vaccine_Diary_ProtocolDec16v1.pdf)
+![Workflows](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Vaccine_workflows.png)
 
 ## FAQ
 
@@ -69,6 +60,20 @@ PathCheck is a nonprofit organization originating in Dr. Ramesh Raskar’s lab a
 ### What is MIT SafePaths? What is its role?
 MIT SafePaths is a set of standards protocols and algorithms and open-source tools. The project on vaccination protocols is led by Ramesh Raskar at Trusted Pandemic Tech and MIT Media Lab, Sanjay Sarma at MIT Auto-ID Lab and Anna Lysyanskaya at Brown University. 
 
-## Vaccination verification workflows
+## Leadership
 
-![Workflows](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Vaccine_workflows.png)
+Ramesh Raskar - Associate Professor, MIT Media Lab
+
+Sanjay Sarma - Vice President for Open Learning, MIT
+
+Anna Lysyanskaya - Professor, Brown University
+
+## Papers
+
+[Vaccines for All: Challenges and Potential Solutions for Equitable COVID-19 Vaccine Distribution](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Papers/PositionPaper_VaccinesForAllConferenceAtMITDec11th.pdf)
+
+[Verifiable Proof of Health using Public Key Cryptography](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Papers/public_key_crypto.pdf)
+
+[Safepaths: Vaccine Diary Protocol and Decentralized Vaccine Coordination System using a Privacy Preserving User Centric Experience](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Papers/Vaccine_Diary_ProtocolDec16v1.pdf)
+
+
