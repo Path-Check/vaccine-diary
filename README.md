@@ -1,6 +1,6 @@
 # VaccineDiary
 
-This repository details Trusted Pandemic Technologies' efforts to design digital solutions which engage citizens in four core areas — logistics, health outcomes, user-centric impact, and communication.
+This repository is a compilation of Trusted Pandemic Technologies' efforts to design digital solutions which engage citizens in four core areas — logistics, health outcomes, user-centric impact, and communication.
 
 Our mission is to help public health professionals rapidly overcome challenging barriers they encounter as they engage citizens as active participants in digital solutions for fighting COVID-19 and future pandemics.
 
