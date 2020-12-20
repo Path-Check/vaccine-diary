@@ -18,8 +18,16 @@ Sanjay Sarma - Vice President for Open Learning, MIT
 
 Anna Lysyanskaya - Professor, Brown University
 
+## Papers
+
+[Vaccines for All: Challenges and Potential Solutions for Equitable COVID-19 Vaccine Distribution](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Papers/PositionPaper_VaccinesForAllConferenceAtMITDec11th.pdf)
+
+[Verifiable Proof of Health using Public Key Cryptography](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Papers/public_key_crypto.pdf)
+
+[Safepaths: Vaccine Diary Protocol and Decentralized Vaccine Coordination System using a Privacy Preserving User Centric Experience](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Papers/Vaccine_Diary_ProtocolDec16v1.pdf)
+
 ## Miscellaneous
 
 [FAQ](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/FAQ.md)
 
-[Prototypes](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Prototypes.md)
+[App Prototypes](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Prototypes.md)
