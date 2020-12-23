@@ -18,6 +18,7 @@ The founding belief of Trusted Pandemic Technologies is that when it comes to en
 * [Additional Resources](#additional-resources)
 
 ### VaccineDiary Mobile App
+![App_gif](https://github.com/PrivateKit/VaccineDiary/blob/main/vaccinediary.gif)
 ![App_screens](https://github.com/PrivateKit/VaccineDiary/blob/main/Vaccine_App_Screens.png)
 ![App_screens1](https://github.com/PrivateKit/VaccineDiary/blob/main/app_1.png)
 ![App_screens2](https://github.com/PrivateKit/VaccineDiary/blob/main/app_2.png)
