@@ -18,15 +18,15 @@ The founding belief of Trusted Pandemic Technologies is that when it comes to en
 * [Additional Resources](#additional-resources)
 
 ### VaccineDiary Mobile App
-![App_gif](https://github.com/PrivateKit/VaccineDiary/blob/main/vaccinediary.gif)
-![App_screens](https://github.com/PrivateKit/VaccineDiary/blob/main/Vaccine_App_Screens.png)
-![App_screens1](https://github.com/PrivateKit/VaccineDiary/blob/main/app_1.png)
-![App_screens2](https://github.com/PrivateKit/VaccineDiary/blob/main/app_2.png)
-![App_screens3](https://github.com/PrivateKit/VaccineDiary/blob/main/app_3.png)
-![App_screens4](https://github.com/PrivateKit/VaccineDiary/blob/main/app_4.png)
-![App_screens5](https://github.com/PrivateKit/VaccineDiary/blob/main/app_5.png)
-![App_screens6](https://github.com/PrivateKit/VaccineDiary/blob/main/app_6.png)
-![App_screens7](https://github.com/PrivateKit/VaccineDiary/blob/main/app_7.png)
+![App_gif](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/vaccinediary.gif)
+![App_screens](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/Vaccine_App_Screens.png)
+![App_screens1](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_1.png)
+![App_screens2](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_2.png)
+![App_screens3](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_3.png)
+![App_screens4](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_4.png)
+![App_screens5](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_5.png)
+![App_screens6](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_6.png)
+![App_screens7](https://github.com/minor/vaccine-diary/blob/main/Resources/app_7.png)
 
 ### Vaccine Workflows
 ![Workflows](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Vaccine_workflows.png)
