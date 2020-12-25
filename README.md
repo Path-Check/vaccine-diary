@@ -26,7 +26,7 @@ The founding belief of Trusted Pandemic Technologies is that when it comes to en
 ![App_screens4](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_4.png)
 ![App_screens5](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_5.png)
 ![App_screens6](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_6.png)
-![App_screens7](https://github.com/minor/vaccine-diary/blob/main/Resources/app_7.png)
+![App_screens7](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_7.png)
 
 ### Vaccine Workflows
 ![Workflows](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Vaccine_workflows.png)
