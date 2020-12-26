@@ -15,7 +15,7 @@ The founding belief of Trusted Pandemic Technologies is that when it comes to en
 * [FAQ](#faq)
 * [Leadership](#leadership)
 * [Papers](#papers)
-* [Additional Resources](#additional-resources)
+* [Prototypes](#prototypes)
 
 ### VaccineDiary Mobile App
 ![App_gif](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/vaccinediary.gif)
