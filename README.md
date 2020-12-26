@@ -97,7 +97,8 @@ Anna Lysyanskaya - Professor, Brown University
 
 [Safepaths: Vaccine Diary Protocol and Decentralized Vaccine Coordination System using a Privacy Preserving User Centric Experience](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Papers/Vaccine_Diary_ProtocolDec16v1.pdf)
 
-## Additional Resources
+## Prototypes
 
-[Prototypes](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Prototypes.md)
+[ProtoPie](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Prototypes.md)
+By Rohan Iyer - MIT Media lab research intern, PathCheck
 
