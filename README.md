@@ -86,13 +86,21 @@ PathCheck is a nonprofit organization originating in Dr. Ramesh Raskar’s lab a
 ### What is MIT SafePaths? What is its role?
 MIT SafePaths is a set of standards protocols and algorithms and open-source tools. The project on vaccination protocols is led by Ramesh Raskar at Trusted Pandemic Tech and MIT Media Lab, Sanjay Sarma at MIT Auto-ID Lab and Anna Lysyanskaya at Brown University. 
 
-## Leadership
+## Team
 
 Ramesh Raskar - Associate Professor, MIT Media Lab
 
 Sanjay Sarma - Vice President for Open Learning, MIT
 
 Anna Lysyanskaya - Professor, Brown University
+
+Vitor Pampalona - 
+
+Joseph Bae
+
+Abhishek Singh
+
+
 
 ## Papers
 
@@ -102,8 +110,23 @@ Anna Lysyanskaya - Professor, Brown University
 
 [Safepaths: Vaccine Diary Protocol and Decentralized Vaccine Coordination System using a Privacy Preserving User Centric Experience](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Papers/Vaccine_Diary_ProtocolDec16v1.pdf)
 
-## Prototypes
+## Apps and Prototypes
 
 [ProtoPie](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Prototypes.md)
 By Rohan Iyer - PathCheck
 
+## Team Background
+
+Exposure Notification App, now in 6 US states and territories by PathCheck Foundation
+
+First contact tracing app in the US
+
+First to propose decentralized algorithm for privacy preserving automation of contact tracing on mobile phone
+
+First white paper on unintended consequences of digital solutions for contact tracing
+
+First contact tracing team invited to testify for US Congressional Hearing on Contact Tracing and Exposure Notification
+
+PathChedck Foundation: World's largest non-profit opensource project for Covid19 software, 501(c)(3) spin-off from MIT
+
+Host of convening events for Covid19 digital solutions (https://vaccine.mit.edu) and (https://responsibledata.ai/events/trust)
