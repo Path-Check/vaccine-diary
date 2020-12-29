@@ -96,7 +96,7 @@ Anna Lysyanskaya - Professor, Brown University
 
 Vitor Pampalona - ceo EyeNetra INC
 
-Joseph Bae - Pathcheck
+Joseph Bae - Stony Brook Medicine
 
 Abhishek Singh - MIT Media lab
 
