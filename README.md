@@ -131,7 +131,8 @@ Sheshank Shankar - Pathcheck
 
 ## Apps and Prototypes
 
-[ProtoPie](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Prototypes.md)
+[ProtoPie](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Prototypes.md): interactive prototype of the Vaccine Diary app
+
 By Rohan Iyer
 
 ## Team Background
