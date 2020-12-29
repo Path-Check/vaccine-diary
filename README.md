@@ -94,11 +94,30 @@ Sanjay Sarma - Vice President for Open Learning, MIT
 
 Anna Lysyanskaya - Professor, Brown University
 
-Vitor Pampalona - 
+Vitor Pampalona - ceo EyeNetra INC
 
-Joseph Bae
+Joseph Bae - Pathcheck
 
-Abhishek Singh
+Abhishek Singh - MIT Media lab
+
+Rohan Iyer - Pathcheck
+
+Krishnendu Dasgupta - Pathcheck
+
+Rohan Sukumaran - Pathcheck
+
+Priyanshi Katiyar - Pathcheck
+
+Jatin Malhotra - Lead, App Partnership Jio.
+
+Maurizio Arseni - Content Manager, ITG
+
+Ashley Mehra - Pathcheck
+
+Darshan Gandhi - Pathcheck
+
+Sheshank Shankar - Pathcheck
+
 
 
 
@@ -113,7 +132,7 @@ Abhishek Singh
 ## Apps and Prototypes
 
 [ProtoPie](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Prototypes.md)
-By Rohan Iyer - PathCheck
+By Rohan Iyer
 
 ## Team Background
 
@@ -127,6 +146,6 @@ First white paper on unintended consequences of digital solutions for contact tr
 
 First contact tracing team invited to testify for US Congressional Hearing on Contact Tracing and Exposure Notification
 
-PathChedck Foundation: World's largest non-profit opensource project for Covid19 software, 501(c)(3) spin-off from MIT
+PathCheck Foundation: World's largest non-profit opensource project for Covid19 software, 501(c)(3) spin-off from MIT
 
 Host of convening events for Covid19 digital solutions (https://vaccine.mit.edu) and (https://responsibledata.ai/events/trust)
