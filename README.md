@@ -102,5 +102,5 @@ Anna Lysyanskaya - Professor, Brown University
 ## Prototypes
 
 [ProtoPie](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Prototypes.md)
-By Rohan Iyer - MIT Media lab research intern, PathCheck
+By Rohan Iyer - PathCheck
 
