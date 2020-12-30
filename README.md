@@ -59,11 +59,11 @@ The founding belief of the Trusted Pandemic Technologies is that when it comes t
 
 ## FAQ
 
-### Is the VaccineDiary app a replacement for existing CDC or state systems? 
+### Is the VaccineDiary app a replacement for existing CDC or State systems? 
 No. Systems such as VAMS/VAERS/V-Safe/IIS/IZ. are important in wide ranging COVID-19 vaccination efforts. Our proposed app would provide an alternative method for vaccination that is privacy-sparing, efficient, and equitable while serving as a supplemental source of vaccine monitoring information.  
 
 ### How will this interface with VAMS/VAERS/V-Safe/ IIS/IZ? What changes are required?
-Vaccine diary, second-dose and health status alert, and informational features of our proposed app would be independent of existing systems. The input of vaccination information upon administration of a vaccine and side effect/efficacy reports are two areas with potential for integration with government systems. 
+Vaccine diary, second-dose and health status alert, and informational features of our proposed app would be independent of the existing systems. The input of vaccination information upon administration of a vaccine and side effect/efficacy reports are two areas with potential for integration with government systems. 
 To verify and record vaccine administration, vaccination clinics or governments would need to provide signed QR codes that can be printed / copied by pharmacies or by users. This QR code would have information regarding the lot, manufacturer, and dosing of a vaccine which can then be verified by others with the appropriate digital key. 
 
 For interoperability of symptom/side effect reports, state or federal systems will need to allow the pseudorandom identifier associated with a user to be used for data identification purposes rather than PII such as name, address, etc. This is already part of the PPRL (privacy preserving record linkage) protocol for VAMS and IIS.
@@ -127,6 +127,8 @@ Jatin Malhotra - Lead, App Partnership Jio.
 Maurizio Arseni - Content Manager, ITG
 
 Ashley Mehra - Pathcheck
+
+Sethuraman- Pathcheck
 
 Darshan Gandhi - Pathcheck
 
