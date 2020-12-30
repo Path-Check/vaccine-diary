@@ -47,7 +47,7 @@ The founding belief of Trusted Pandemic Technologies is that when it comes to en
 
 ## News and Analysis
 
-Privacy, equity, and efficiency in vaccine distribution - Boston Globe: https://www.bostonglobe.com/2020/12/23/opinion/privacy-equity-efficiency-vaccine-distribution/
+[Privacy, equity, and efficiency in vaccine distribution - Boston Globe](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/Privacy%2C%20equity%2C%20and%20efficiency%20in%20vaccine%20distribution%20-%20The%20Boston%20Globe.pdf)
 
 ## FAQ
 
