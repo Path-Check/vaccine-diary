@@ -13,7 +13,7 @@ The founding belief of Trusted Pandemic Technologies is that when it comes to en
 * [Dashboard for Health Agencies](#conceptual-dashboard-for-health-agencies)
 * [Proposed Record Card](proposed-vaccination-record-card)
 * [FAQ](#faq)
-* [Leadership](#leadership)
+* [Team](#Team)
 * [Papers](#papers)
 * [Prototypes](#prototypes)
 
