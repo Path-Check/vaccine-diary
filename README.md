@@ -72,7 +72,7 @@ For interoperability of symptom/side effect reports, state or federal systems wi
 Doctors and public health officials can contact users regarding pertinent information about their specific vaccine lot and other important details via app-mediated push notifications and contextual alerts. This is similar to ‘recalls’ in auto-parts, food safety, toys, etc. 
 
 ### What difference will it make? Wouldn’t everyone be vaccinated anyway?
-The emphasis is on privacy, equity and efficiency. Significant chunks of the population still exhibit vaccine hesitancy and many may be unwilling to receive a COVID-19 vaccine. This app aims to potential barriers to vaccination by protecting data privacy, creating a convenient, streamlined user experience, and providing multiple vaccine-related functionalities in one platform. We also believe decentralized data can be used for a broad range of public health research. 
+The emphasis is on privacy, equity and efficiency. Significant chunks of the population still exhibit vaccine hesitancy and many may be unwilling to receive a COVID-19 vaccine. This app aims to remove potential barriers to vaccination by protecting data privacy, creating a convenient, streamlined user experience, and providing multiple vaccine-related functionalities in one platform. We also believe that decentralized data can be used for a broad range of public health research. 
 
 ### Is this app primarily a vaccine passport or verifiable credentials? 
 This app does support vaccine verification while also including modules surrounding eligibility confirmation, dose scheduling and reminders, health assessments and symptom reporting, and providing users with push-notifications and contextual alerts. 
