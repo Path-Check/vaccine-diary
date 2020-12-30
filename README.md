@@ -2,7 +2,7 @@
 
 This repository is a compilation of Trusted Pandemic Technologies' efforts to design Digital Solutions which engage citizens in four core areas — Logistics, Health Outcomes, User-centric impact, and Communication.
 
-Our mission is to help public health professionals rapidly overcome challenging barriers they encounter as they engage citizens as active participants in digital solutions for fighting COVID-19 and future pandemics.
+Our mission is to help Public health professionals to instantly overcome challenging barriers they encounter as they engage citizens as an active participants in digital solutions for fighting COVID-19 and future pandemics.
 
 Today, the program is focused on creating citizen-centric solutions for the digital management of COVID-19 vaccine distribution, testing, and health verification. Previously the program worked with public health officials as they designed and deployed exposure notification and digital contact tracing solutions. Subsequent initiatives under consideration include surveillance, monitoring, and predictive modeling to better prepare us, as a society, for future pandemics.
 
