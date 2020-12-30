@@ -45,6 +45,10 @@ The founding belief of Trusted Pandemic Technologies is that when it comes to en
 
 ![Record Card](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/P_V_Card.png)
 
+## News and Analysis
+
+Privacy, equity, and efficiency in vaccine distribution - Boston Globe: https://www.bostonglobe.com/2020/12/23/opinion/privacy-equity-efficiency-vaccine-distribution/
+
 ## FAQ
 
 ### Is the VaccineDiary app a replacement for existing CDC or state systems? 
@@ -96,7 +100,7 @@ Sanjay Sarma - Vice President for Open Learning, MIT
 
 Anna Lysyanskaya - Professor, Brown University
 
-Vitor Pampalona - ceo EyeNetra INC
+Vitor Pampalona - CEO EyeNetra INC
 
 Joseph Bae - Stony Brook Medicine
 
