@@ -1,6 +1,6 @@
 # ![logo](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/trusted_pandemic.png)
 
-This repository is a compilation of Trusted Pandemic Technologies' efforts to design digital solutions which engage citizens in four core areas — Logistics, Health Outcomes, User-centric impact, and Communication.
+This repository is a compilation of Trusted Pandemic Technologies' efforts to design Digital Solutions which engage citizens in four core areas — Logistics, Health Outcomes, User-centric impact, and Communication.
 
 Our mission is to help public health professionals rapidly overcome challenging barriers they encounter as they engage citizens as active participants in digital solutions for fighting COVID-19 and future pandemics.
 
