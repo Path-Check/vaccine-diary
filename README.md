@@ -45,6 +45,14 @@ The founding belief of Trusted Pandemic Technologies is that when it comes to en
 
 ![Record Card](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/P_V_Card.png)
 
+### App Sketches
+
+![Sketches](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/1f.png)
+![Sketches](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/2f2.png)
+![Sketches](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/3f.png)
+![Sketches](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/1f.png)
+![Sketches](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/final%20guard1.png)
+
 ## News and Analysis
 
 [Privacy, equity, and efficiency in vaccine distribution - Boston Globe](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/Privacy%2C%20equity%2C%20and%20efficiency%20in%20vaccine%20distribution%20-%20The%20Boston%20Globe.pdf)
