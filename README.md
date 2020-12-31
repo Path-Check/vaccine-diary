@@ -12,6 +12,7 @@ The founding belief of the Trusted Pandemic Technologies is that when it comes t
 * [Vaccine Workflows](#vaccine-workflows)
 * [Dashboard for Health Agencies](#conceptual-dashboard-for-health-agencies)
 * [Proposed Record Card](proposed-vaccination-record-card)
+* [News and Analysis] (News and Analysis)
 * [FAQ](#faq)
 * [Team](#Team)
 * [Papers](#papers)
