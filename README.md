@@ -16,6 +16,7 @@ The founding belief of the Trusted Pandemic Technologies is that when it comes t
 * [Team](#Team)
 * [Papers](#papers)
 * [Prototypes](#prototypes)
+* [Volunteer Onboarding for new members](https://docs.google.com/document/d/1DW7fDQLDVDg2PjL0dLxkzv6KsNB-Aaw-0DgxXQF-KuE/)
 
 ### VaccineDiary Mobile App
 ![Download](https://www.kassamagneetti.fi/wp-content/uploads/2019/08/apple_google.jpg)
