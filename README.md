@@ -112,43 +112,43 @@ MIT SafePaths is a set of standards protocols and algorithms and open-source too
 
 ## Team
 
-Ramesh Raskar - Associate Professor, MIT Media Lab
+[Ramesh Raskar](https://en.wikipedia.org/wiki/Ramesh_Raskar) - Associate Professor, MIT Media Lab
 
-Sanjay Sarma - Vice President for Open Learning, MIT
+[Sanjay Sarma](https://en.wikipedia.org/wiki/Sanjay_Sarma) - Vice President for Open Learning, MIT
 
-Anna Lysyanskaya - Professor, Brown University
+[Anna Lysyanskaya](https://en.wikipedia.org/wiki/Anna_Lysyanskaya) - Professor, Brown University
 
-Vitor Pampalona - CEO EyeNetra INC
+[Vitor Pamplona](https://www.linkedin.com/in/vitorpamplona/) - CEO EyeNetra INC
 
-Joseph Bae - Stony Brook Medicine
+[Joseph Bae](https://www.linkedin.com/in/josephhbae/) - Stony Brook Medicine
 
-Abhishek Singh - MIT Media Lab
+[Abhishek Singh](https://www.linkedin.com/in/tremblerz/) - MIT Media Lab
 
-Rohan Iyer - PathCheck
+[Rohan Iyer](https://www.linkedin.com/in/rohan-iyer-6aa614189/) - PathCheck
 
-Krishnendu Dasgupta - PathCheck
+[Krishnendu Dasgupta](https://www.linkedin.com/in/krishdasgupta/) - PathCheck
 
-Rohan Sukumaran - PathCheck
+[Rohan Sukumaran](https://www.linkedin.com/in/rohan-sukumaran-3271ba145/) - PathCheck
 
-Priyanshi Katiyar - PathCheck
+[Priyanshi Katiyar](https://www.linkedin.com/in/priyanshi-katiyar-7222ba186/) - PathCheck
 
-Sheshank Shankar - PathCheck
+[Sheshank Shankar](https://www.linkedin.com/in/sheshank-s/) - PathCheck
 
-Jatin Malhotra - Lead, App Partnership Jio
+[Jatin Malhotra](https://www.linkedin.com/in/jatin1malhotra/) - Lead, App Partnership Jio
 
-Maurizio Arseni - Content Manager, ITG
+[Maurizio Arseni](https://www.linkedin.com/in/maurizio-arseni/) - Content Manager, ITG
 
 Ashley Mehra - PathCheck
 
-Sethuraman - PathCheck
+[Sethuraman T V](https://www.linkedin.com/in/sethuraman-t-v-64099b137/) - PathCheck
 
-Darshan Gandhi - PathCheck
+[Darshan Gandhi](https://www.linkedin.com/in/gandhi-darshan/) - PathCheck
 
-Mikhail Dmitrienko - PathCheck
+[Mikhail Dmitrienko](https://www.linkedin.com/in/mikhail-dmitrienko-819735125/) - PathCheck
 
-Nathan Yap - PathCheck
+[Nathan Yap](https://www.linkedin.com/in/nathan-yap-9b8301180/) - PathCheck
 
-Saurish Srivastava - PathCheck
+[Saurish Srivastava](https://saurish.com) - PathCheck
 
 
 
