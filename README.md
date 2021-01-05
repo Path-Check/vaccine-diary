@@ -1,8 +1,8 @@
 # ![logo](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/trusted_pandemic.png)
 
-This repository is a compilation of Trusted Pandemic Technologies' efforts to design Digital Solutions which engage citizens in four core areas — Logistics, Health Outcomes, User-centric impact, and Communication.
+This repository is a compilation of Trusted Pandemic Technologies' efforts to design digital solutions which engage citizens in four core areas — Logistics, Health Outcomes, User-centric impact, and Communication.
 
-Our mission is to help Public health professionals to instantly overcome challenging barriers they encounter as they engage citizens as an active participants in digital solutions for fighting COVID-19 and future pandemics.
+Our mission is to help public health professionals to instantly overcome challenging barriers they encounter as they engage citizens as an active participants in digital solutions for fighting COVID-19 and future pandemics.
 
 Today, the program is focused on creating a citizen-centric solutions for the digital management of COVID-19 vaccine distribution, testing, and health verification. Previously the program worked with public health officials as they designed and deployed exposure notification and digital contact tracing solutions. Subsequent initiatives under consideration include surveillance, monitoring, and predictive modeling to better prepare us, as a society, for future pandemics.
 
@@ -115,28 +115,27 @@ Joseph Bae - Stony Brook Medicine
 
 Abhishek Singh - MIT Media lab
 
-Rohan Iyer - Pathcheck
+Rohan Iyer - PathCheck
 
-Krishnendu Dasgupta - Pathcheck
+Krishnendu Dasgupta - PathCheck
 
-Rohan Sukumaran - Pathcheck
+Rohan Sukumaran - PathCheck
 
-Priyanshi Katiyar - Pathcheck
+Priyanshi Katiyar - PathCheck
+
+Sheshank Shankar - PathCheck
 
 Jatin Malhotra - Lead, App Partnership Jio.
 
 Maurizio Arseni - Content Manager, ITG
 
-Ashley Mehra - Pathcheck
+Ashley Mehra - PathCheck
 
-Sethuraman- Pathcheck
+Sethuraman - PathCheck
 
-Darshan Gandhi - Pathcheck
+Darshan Gandhi - PathCheck
 
-Saurish Srivastava - Pathcheck
-
-Sheshank Shankar - Pathcheck
-
+Saurish Srivastava - PathCheck
 
 
 
