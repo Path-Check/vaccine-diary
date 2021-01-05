@@ -25,6 +25,7 @@ The founding belief of the Trusted Pandemic Technologies is that when it comes t
 [VaccineDiary Demo Video](https://youtu.be/njUGAN98PSk)
 
 <img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/vaccinediary.gif" alt="App_gif" width="300"/>
+
 ![App_screens](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/Vaccine_App_Screens.png)
 ![App_screens1](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_1.png)
 ![App_screens2](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_2.png)
