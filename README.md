@@ -47,10 +47,8 @@ The founding belief of the Trusted Pandemic Technologies is that when it comes t
 ### App Sketches
 
 
-<img style="display: inline-block" src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/1f.png" alt="sketch 1"/>
-<img style="display: inline-block" src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/2f2.png" alt="sketch 2"/>
 
-![Sketches](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/3f.png)
+![Sketches](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/sketches.png)
 ![Sketches](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/1f.png)
 ![Sketches](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/final%20guard1.png)
 
@@ -159,16 +157,16 @@ By Rohan Iyer
 
 ## Team Background
 
-Exposure Notification App, now in 6 US states and territories by PathCheck Foundation
+- [Exposure Notification App, now in 6 US states and territories by PathCheck Foundation](https://www.pathcheck.org/en/covid-19-exposure-notification-app)
 
-First contact tracing app in the US
+- [First contact tracing app in the US](https://covidawaremn.com/)
 
-First to propose decentralized algorithm for privacy preserving automation of contact tracing on mobile phone
+- [First to propose decentralized algorithm for privacy preserving automation of contact tracing on mobile phone]()
 
-First white paper on unintended consequences of digital solutions for contact tracing
+- [First white paper on unintended consequences of digital solutions for contact tracing](https://arxiv.org/abs/2003.08567)
 
-First contact tracing team invited to testify for US Congressional Hearing on Contact Tracing and Exposure Notification
+- [First contact tracing team invited to testify for US Congressional Hearing on Contact Tracing and Exposure Notification](https://www.media.mit.edu/events/ramesh-raskar-testifies/)
 
-PathCheck Foundation: World's largest non-profit opensource project for Covid19 software, 501(c)(3) spin-off from MIT
+- [PathCheck Foundation: World's largest non-profit opensource project for Covid19 software, 501(c)(3) spin-off from MIT](https://pathcheck.org)
 
-Host of convening events for COVID-19 digital solutions (https://pandemic.mit.edu) and (https://responsibledata.ai/events/trust)
+- Host of convening events for COVID-19 digital solutions (https://pandemic.mit.edu) and (https://responsibledata.ai/events/trust)
