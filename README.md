@@ -2,7 +2,7 @@
 
 We present an end to end decentralized protocol developed by MIT for the secure and privacy preserving workflow of phased vaccination, vaccination status verification, and adverse reactions or symptoms reporting. The proposed system improves the efficiency, privacy, equity and effectiveness by augmenting the existing systems such as VAMS, VAERS, v-safe and IIS.
 
-We propose two use-facing solutions: (i) a modified vaccination card which carries digitally signed (QR) codes and a scanner app for health officials for data aggregation, (ii) a mobile phone app for the user that interfaces with existing databases directly. We believe a user-centric design is critical in the micro-planning and last mile issues.
+We propose two user-facing solutions: (i) a modified vaccination card which carries digitally signed (QR) codes and a scanner app for health officials for data aggregation, (ii) a mobile phone app for the user that interfaces with existing databases directly. We believe a user-centric design is critical in the micro-planning and last mile issues.
 
 The user’s journey is divided into four parts: (i) Digitally enhanced enrollment system for phased vaccination, (ii) A privacy-preserving smartphone app to interface with vaccination sites without revealing any personally identifiable information to centralized servers, (iii) Proof of vaccination in a privacy-preserving and secure manner, (iv) Monitoring and alert systems for adverse reactions that enable users to upload their symptoms in a cryptographically secure manner. In addition, we need the ability to perform data aggregation for analytics without revealing raw data.
 
@@ -187,5 +187,4 @@ By Rohan Iyer
 ## Events
 
 - Conference on "Vaccines for All" at MIT [[Jan 14](https://pandemic.mit.edu#jan-conf), [Dec 11](https://pandemic.mit.edu#dec-conf)]
-
-[https://pandemic.mit.edu](https://pandemic.mit.edu)
+- Trusted Pandemic Tech at MIT [https://pandemic.mit.edu](https://pandemic.mit.edu)
