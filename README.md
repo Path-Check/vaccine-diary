@@ -9,13 +9,17 @@ Today, the program is focused on creating a citizen-centric solutions for the di
 The founding belief of the Trusted Pandemic Technologies is that when it comes to engaging citizens in a quest for the common good, especially public health, trust at all levels and among all participants is mandatory for success. So, the program builds on privacy-preserving systems for smartphone data, analytics, and machine learning.
 
 * [VaccineDiary Mobile App](#mobile-app)
+* [VaccineDiary Demo Video](https://youtu.be/njUGAN98PSk)
+* [Vaccination Record Card Proposals](#vaccination-record-card-proposals)
+* [App Sketches](#app-sketches)
+* [Conceptual Dashboard for Health Agencies](#conceptual-dashboard-for-health-agencies)
 * [Vaccine Workflows](#vaccine-workflows)
-* [Dashboard for Health Agencies](#conceptual-dashboard-for-health-agencies)
-* [Proposed Record Card](proposed-vaccination-record-card)
+* [News and Analysis](#news-and-analysis)
 * [FAQ](#faq)
 * [Team](#Team)
 * [Papers](#papers)
-* [Prototypes](#prototypes)
+* [Apps and Prototypes](#apps-and-prototypes)
+* [Team Background](#team-background)
 
 ### VaccineDiary Mobile App
 [<img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/download_google_play.png" alt="Download on Play Store" width="200"/>](https://play.google.com/store/apps/details?id=org.pathcheck.boost)
