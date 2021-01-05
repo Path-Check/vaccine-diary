@@ -42,8 +42,8 @@ The founding belief of the Trusted Pandemic Technologies is that when it comes t
 
 ### Vaccination Record Card Proposals
 
-![Record Card](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/P_V_Card_1.png)
-![Record Card](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/P_V_Card_2.png)
+![Record Card](https://github.com/Path-Check/vaccine-diary/blob/main/P_V_Card_1.png)
+![Record Card](https://github.com/Path-Check/vaccine-diary/blob/main/P_V_Card_2.png)
 
 ### App Sketches
 
