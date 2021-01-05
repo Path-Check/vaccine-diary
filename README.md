@@ -1,5 +1,6 @@
 # ![logo](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/trusted_pandemic.png)
 
+### VaccineDiary: Algorithmic Protocol, E-card, Mobile App and Research Papers
 We present an end to end decentralized protocol developed by MIT for the secure and privacy preserving workflow of phased vaccination, vaccination status verification, and adverse reactions or symptoms reporting. The proposed system improves the efficiency, privacy, equity and effectiveness by augmenting the existing systems such as VAMS, VAERS, v-safe and IIS.
 
 We propose two user-facing solutions: (i) a modified vaccination card which carries digitally signed (QR) codes and a scanner app for health officials for data aggregation, (ii) a mobile phone app for the user that interfaces with existing databases directly. We believe a user-centric design is critical in the micro-planning and last mile issues.
