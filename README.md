@@ -16,7 +16,6 @@ The founding belief of the Trusted Pandemic Technologies is that when it comes t
 * [Team](#Team)
 * [Papers](#papers)
 * [Prototypes](#prototypes)
-* [Volunteer Onboarding Packet](https://docs.google.com/document/d/1DW7fDQLDVDg2PjL0dLxkzv6KsNB-Aaw-0DgxXQF-KuE/)
 
 ### VaccineDiary Mobile App
 [<img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/download_google_play.png" alt="Download on Play Store" width="200"/>](https://play.google.com/store/apps/details?id=org.pathcheck.boost)
