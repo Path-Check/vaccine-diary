@@ -16,7 +16,7 @@ The founding belief of the Trusted Pandemic Technologies is that when it comes t
 * [Team](#Team)
 * [Papers](#papers)
 * [Prototypes](#prototypes)
-* [Volunteer Onboarding for new members](https://docs.google.com/document/d/1DW7fDQLDVDg2PjL0dLxkzv6KsNB-Aaw-0DgxXQF-KuE/)
+* [Volunteer Onboarding Packet](https://docs.google.com/document/d/1DW7fDQLDVDg2PjL0dLxkzv6KsNB-Aaw-0DgxXQF-KuE/)
 
 ### VaccineDiary Mobile App
 [<img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/download_google_play.png" alt="Download on Play Store" width="200"/>](https://play.google.com/store/apps/details?id=org.pathcheck.boost)
@@ -114,7 +114,7 @@ Vitor Pampalona - CEO EyeNetra INC
 
 Joseph Bae - Stony Brook Medicine
 
-Abhishek Singh - MIT Media lab
+Abhishek Singh - MIT Media Lab
 
 Rohan Iyer - PathCheck
 
@@ -126,7 +126,7 @@ Priyanshi Katiyar - PathCheck
 
 Sheshank Shankar - PathCheck
 
-Jatin Malhotra - Lead, App Partnership Jio.
+Jatin Malhotra - Lead, App Partnership Jio
 
 Maurizio Arseni - Content Manager, ITG
 
