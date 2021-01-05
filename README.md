@@ -34,16 +34,10 @@ The founding belief of the Trusted Pandemic Technologies is that when it comes t
 ![App_screens6](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_6.png)
 ![App_screens7](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_7.png)
 
-### Vaccine Workflows
-![Workflows](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Vaccine_workflows.png)
-
-### Conceptual Dashboard for Health Agencies
-![Dashboard](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Dashboard.png)
-
 ### Vaccination Record Card Proposals
 
-![Record Card](https://github.com/Path-Check/vaccine-diary/blob/main/P_V_Card_1.png)
-![Record Card](https://github.com/Path-Check/vaccine-diary/blob/main/P_V_Card_2.png)
+![Record Card](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/P_V_Card_1.png)
+![Record Card](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/P_V_Card_2.png)
 
 ### App Sketches
 
@@ -51,6 +45,13 @@ A privacy-protecting, user-centric app to enhance vaccination coordination and d
 
 ![Sketches](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/sketches.png)
 ![Sketches](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/sketch2.png)
+
+### Conceptual Dashboard for Health Agencies
+![Dashboard](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Dashboard.png)
+
+### Vaccine Workflows
+![Workflows](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Vaccine_workflows.png)
+![Workflows](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/vaccine_workflow.png)
 
 ## News and Analysis
 
