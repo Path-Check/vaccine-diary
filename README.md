@@ -40,9 +40,10 @@ The founding belief of the Trusted Pandemic Technologies is that when it comes t
 ### Conceptual Dashboard for Health Agencies
 ![Dashboard](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Dashboard.png)
 
-### Proposed Vaccination Record Card
+### Vaccination Record Card Proposals
 
-![Record Card](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/P_V_Card.png)
+![Record Card](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/P_V_Card_1.png)
+![Record Card](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/P_V_Card_2.png)
 
 ### App Sketches
 
