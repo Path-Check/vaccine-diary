@@ -161,7 +161,7 @@ By Rohan Iyer
 
 - [First contact tracing app in the US](https://covidawaremn.com/)
 
-- [First to propose decentralized algorithm for privacy preserving automation of contact tracing on mobile phone]()
+- [First to propose decentralized algorithm for privacy preserving automation of contact tracing on mobile phone](https://arxiv.org/abs/2003.08567)
 
 - [First white paper on unintended consequences of digital solutions for contact tracing](https://arxiv.org/abs/2003.08567)
 
