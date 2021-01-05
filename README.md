@@ -187,6 +187,14 @@ By Rohan Iyer
 
 - [PathCheck Foundation: World's largest non-profit opensource project for Covid19 software, 501(c)(3) spin-off from MIT](https://pathcheck.org)
 
+    - Digital contact tracing apps developed and deployed in [Minnesota](https://covidawaremn.com), [Hawaii](https://www.alohasafealert.org/), [Guam](https://guamcovidalert.guam.gov/) and soon Alabama
+    
+- Awards for digital pandemic Work and research:
+    
+    - Robert Wood Johnson Foundation Emergency Response for the Health Care System Innovation Challenge - [Second Place](https://www.healthsystemcrisisresponse.com/)
+    - Facebook COVID-19 Symptom Data Challenge (jointly run by CMU, UMD, and Duke University) - [Finalist](https://www.businesswire.com/news/home/20201214005670/en/Announcing-The-COVID-19-Symptom-Data-Challenge-Winners)
+    - NIST Too Close for Too Long (TC4TL) Challenge first round - 1st Place
+
 - Host of convening events for COVID-19 digital solutions (https://pandemic.mit.edu) and (https://responsibledata.ai/events/trust)
 
 ## Events
