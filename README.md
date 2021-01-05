@@ -46,7 +46,7 @@ The founding belief of the Trusted Pandemic Technologies is that when it comes t
 
 ### App Sketches
 
-
+A privacy-protecting, user-centric app to enhance vaccination coordination and data-aggregation. 
 
 ![Sketches](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/sketches.png)
 ![Sketches](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/sketch2.png)
