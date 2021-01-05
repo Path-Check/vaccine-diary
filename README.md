@@ -184,4 +184,4 @@ By Rohan Iyer
 
 ## Events
 
-- Conference on "Vaccines for All" at MIT, [Jan 14](https://pandemic.mit.edu#jan-conf), [Dec 11](https://pandemic.mit.edu#dec-conf)
+- Conference on "Vaccines for All" at MIT [[Jan 14](https://pandemic.mit.edu#jan-conf), [Dec 11](https://pandemic.mit.edu#dec-conf)]
