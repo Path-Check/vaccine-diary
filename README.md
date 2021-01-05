@@ -19,8 +19,8 @@ The founding belief of the Trusted Pandemic Technologies is that when it comes t
 * [Volunteer Onboarding for new members](https://docs.google.com/document/d/1DW7fDQLDVDg2PjL0dLxkzv6KsNB-Aaw-0DgxXQF-KuE/)
 
 ### VaccineDiary Mobile App
-[![Download on Play Store](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/download_play_store.png)](https://play.google.com/store/apps/details?id=org.pathcheck.boost)
-[![Download on Apple Store](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/download_app_store.png)](https://comingsoon.com)
+[<img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/download_google_play.png" alt="Download on Play Store" width="200"/>](https://play.google.com/store/apps/details?id=org.pathcheck.boost)
+[<img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/download_app_store.png" alt="Download on App Store" width="200"/>](https://comingsoon.com)
 
 
 [VaccineDiary Demo Video](https://youtu.be/njUGAN98PSk)
