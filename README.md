@@ -136,7 +136,7 @@ MIT SafePaths is a set of standards protocols and algorithms and open-source too
 
 [Jatin Malhotra](https://www.linkedin.com/in/jatin1malhotra/) - Lead, App Partnership Jio
 
-[Maurizio Arseni](https://www.linkedin.com/in/maurizio-arseni/) - Content Manager, ITG
+[Maurizio Arseni](https://www.linkedin.com/in/maurizio-arseni/) - PathCheck, ITGH
 
 [Vinay Gidwaney](https://www.linkedin.com/in/gidwaney) - PathCheck
 
@@ -155,6 +155,8 @@ Ashley Mehra - PathCheck
 
 
 ## Papers
+
+[MIT SafePaths Card (MiSaCa): Augmenting Paper Based Vaccination Cards with Printed Codes](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/misaca.pdf)
 
 [Vaccines for All: Challenges and Potential Solutions for Equitable COVID-19 Vaccine Distribution](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Papers/PositionPaper_VaccinesForAllConferenceAtMITDec11th.pdf)
 
