@@ -48,8 +48,8 @@ The founding belief of the Trusted Pandemic Technologies is that when it comes t
 ### App Sketches
 
 
-<img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/1f.png" alt="sketch 1" style="width:50%"/>
-<img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/2f2.png" alt="sketch 2" style="width:50%"/>
+<img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/1f.png" alt="sketch 1" width="500"/>
+<img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/2f2.png" alt="sketch 2" width="500"/>
 
 ![Sketches](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/3f.png)
 ![Sketches](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/1f.png)
