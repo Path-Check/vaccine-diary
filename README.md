@@ -167,4 +167,4 @@ First contact tracing team invited to testify for US Congressional Hearing on Co
 
 PathCheck Foundation: World's largest non-profit opensource project for Covid19 software, 501(c)(3) spin-off from MIT
 
-Host of convening events for Covid19 digital solutions (https://vaccine.mit.edu) and (https://responsibledata.ai/events/trust)
+Host of convening events for COVID-19 digital solutions (https://pandemic.mit.edu) and (https://responsibledata.ai/events/trust)
