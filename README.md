@@ -138,6 +138,8 @@ MIT SafePaths is a set of standards protocols and algorithms and open-source too
 
 [Maurizio Arseni](https://www.linkedin.com/in/maurizio-arseni/) - Content Manager, ITG
 
+[Vinay Gidwaney](https://www.linkedin.com/in/gidwaney) - PathCheck
+
 Ashley Mehra - PathCheck
 
 [Sethuraman T V](https://www.linkedin.com/in/sethuraman-t-v-64099b137/) - PathCheck
