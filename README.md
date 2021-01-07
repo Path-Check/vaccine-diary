@@ -169,9 +169,7 @@ MIT SafePaths is a set of standards protocols and algorithms and open-source too
 
 ## Apps and Prototypes
 
-[ProtoPie](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Prototypes.md): interactive prototype of the Vaccine Diary app
-
-By Rohan Iyer
+[ProtoPie](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Prototypes.md): interactive prototype of the Vaccine Diary app by [Rohan Iyer](https://www.linkedin.com/in/rohan-iyer-6aa614189/)
 
 ## Team Background
 
