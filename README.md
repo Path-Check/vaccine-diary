@@ -121,15 +121,17 @@ MIT SafePaths is a set of standards protocols and algorithms and open-source too
 
 [Vitor Pamplona](https://www.linkedin.com/in/vitorpamplona/) - CEO EyeNetra INC
 
-[Joseph Bae](https://www.linkedin.com/in/josephhbae/) - Stony Brook Medicine
-
 [Abhishek Singh](https://www.linkedin.com/in/tremblerz/) - MIT Media Lab
 
-[Rohan Iyer](https://www.linkedin.com/in/rohan-iyer-6aa614189/) - PathCheck
+[Joseph Bae](https://www.linkedin.com/in/josephhbae/) - Stony Brook Medicine
 
 [Krishnendu Dasgupta](https://www.linkedin.com/in/krishdasgupta/) - PathCheck
 
+[Vinay Gidwaney](https://www.linkedin.com/in/gidwaney) - PathCheck
+
 [Rohan Sukumaran](https://www.linkedin.com/in/rohan-sukumaran-3271ba145/) - PathCheck
+
+[Rohan Iyer](https://www.linkedin.com/in/rohan-iyer-6aa614189/) - PathCheck
 
 [Priyanshi Katiyar](https://www.linkedin.com/in/priyanshi-katiyar-7222ba186/) - PathCheck
 
@@ -142,8 +144,6 @@ MIT SafePaths is a set of standards protocols and algorithms and open-source too
 [Adam Berrey](https://www.linkedin.com/in/adamberrey) - PathCheck
 
 [Riyanka Roy Choudhury](https://law.stanford.edu/directory/riyanka-roy-choudhury/) - Stanford University, PathCheck
-
-[Vinay Gidwaney](https://www.linkedin.com/in/gidwaney) - PathCheck
 
 [Anshuman Sharma](https://www.linkedin.com/in/sharmaanshuman/) - PathCheck
 
