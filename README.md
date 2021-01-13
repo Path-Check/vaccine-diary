@@ -138,7 +138,7 @@ MIT SafePaths is a set of standards protocols and algorithms and open-source too
 
 [MIT SafePaths Card (MiSaCa): Augmenting Paper Based Vaccination Cards with Printed Codes](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/misaca.pdf)
 
-[Mobile Apps: A Decentralized Approach to COVID-19 Vaccination Coordination Prioritizating Privacy, Efficiency, and Equity](https://github.com/Path-Check/vaccine-diary/blob/main/Papers/apps.pdf)
+[Mobile Apps Prioritizating Privacy, Efficiency, and Equity: A Decentralized Approach to COVID-19 Vaccination Coordination](https://github.com/Path-Check/vaccine-diary/blob/main/Papers/apps.pdf)
 
 [Vaccines for All: Challenges and Potential Solutions for Equitable COVID-19 Vaccine Distribution](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Papers/PositionPaper_VaccinesForAllConferenceAtMITDec11th.pdf)
 
