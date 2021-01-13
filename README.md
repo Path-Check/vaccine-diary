@@ -17,17 +17,17 @@ The founding belief of the Trusted Pandemic Technologies is that when it comes t
 
 * [VaccineDiary Mobile App](#mobile-app)
 * [VaccineDiary Demo Video](https://youtu.be/njUGAN98PSk)
-* [Vaccination Record Card Proposals](#vaccination-record-card-proposals)
-* [App Sketches](#app-sketches)
-* [Conceptual Dashboard for Health Agencies](#conceptual-dashboard-for-health-agencies)
-* [Vaccine Workflows](#vaccine-workflows)
 * [News and Analysis](#news-and-analysis)
 * [FAQ](#faq)
 * [Team](#Team)
 * [Papers](#papers)
-* [Apps and Prototypes](#apps-and-prototypes)
 * [Team Background](#team-background)
 * [Events](#events)
+* [Vaccination Record Card Proposals](#vaccination-record-card-proposals)
+* [App Sketches](#app-sketches)
+* [Apps and Prototypes](#apps-and-prototypes)
+* [Conceptual Dashboard for Health Agencies](#conceptual-dashboard-for-health-agencies)
+* [Vaccine Workflows](#vaccine-workflows)
 
 ### VaccineDiary Mobile App
 [<img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/download_google_play.png" alt="Download on Play Store" height="75"/>](https://play.google.com/store/apps/details?id=org.pathcheck.boost)
@@ -36,33 +36,6 @@ The founding belief of the Trusted Pandemic Technologies is that when it comes t
 [VaccineDiary Demo Video](https://youtu.be/njUGAN98PSk)
 
 <img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/vaccinediary.gif" alt="App_gif" width="300"/>
-
-![App_screens](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/Vaccine_App_Screens.png)
-![App_screens1](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_1.png)
-![App_screens2](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_2.png)
-![App_screens3](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_3.png)
-![App_screens4](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_4.png)
-![App_screens5](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_5.png)
-![App_screens6](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_6.png)
-![App_screens7](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_7.png)
-
-### Vaccination Record Card Proposals
-
-![Record Card](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/P_V_Card_1.png)
-![Record Card](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/P_V_Card_2.png)
-
-### App Sketches
-
-A privacy-protecting, user-centric app to enhance vaccination coordination and data-aggregation. 
-
-![Sketches](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/sketches.png)
-![Sketches](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/sketch2.png)
-
-### Conceptual Dashboard for Health Agencies
-![Dashboard](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Dashboard.png)
-
-### Vaccine Workflows
-![Workflows](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/vaccine_workflow.png)
 
 ## News and Analysis
 
@@ -173,10 +146,6 @@ MIT SafePaths is a set of standards protocols and algorithms and open-source too
 
 [Safepaths: Vaccine Diary Protocol and Decentralized Vaccine Coordination System using a Privacy Preserving User Centric Experience](https://github.com/)
 
-## Apps and Prototypes
-
-[ProtoPie](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Prototypes.md): interactive prototype of the Vaccine Diary app by [Rohan Iyer](https://www.linkedin.com/in/rohan-iyer-6aa614189/)
-
 ## Team Background
 
 - [Exposure Notification App, now in 6 US states and territories by PathCheck Foundation](https://www.pathcheck.org/en/covid-19-exposure-notification-app)
@@ -205,3 +174,37 @@ MIT SafePaths is a set of standards protocols and algorithms and open-source too
 
 - Conference on "Vaccines for All" at MIT [[Jan 14](https://pandemic.mit.edu#jan-conf), [Dec 11](https://pandemic.mit.edu#dec-conf)]
 - Trusted Pandemic Tech at MIT [https://pandemic.mit.edu](https://pandemic.mit.edu)
+
+
+
+## Apps and Prototypes
+
+![App_screens](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/Vaccine_App_Screens.png)
+![App_screens1](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_1.png)
+![App_screens2](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_2.png)
+![App_screens3](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_3.png)
+![App_screens4](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_4.png)
+![App_screens5](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_5.png)
+![App_screens6](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_6.png)
+![App_screens7](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/app_7.png)
+
+[ProtoPie](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Prototypes.md): interactive prototype of the Vaccine Diary app by [Rohan Iyer](https://www.linkedin.com/in/rohan-iyer-6aa614189/)
+
+
+### Vaccination Record Card Proposals
+
+![Record Card](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/P_V_Card_1.png)
+![Record Card](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/P_V_Card_2.png)
+
+### App Sketches
+
+A privacy-protecting, user-centric app to enhance vaccination coordination and data-aggregation. 
+
+![Sketches](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/sketches.png)
+![Sketches](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/sketch2.png)
+
+### Conceptual Dashboard for Health Agencies
+![Dashboard](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Dashboard.png)
+
+### Vaccine Workflows
+![Workflows](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/vaccine_workflow.png)
