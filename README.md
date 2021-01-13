@@ -153,7 +153,7 @@ The founding belief of the Trusted Pandemic Technologies is that when it comes t
 ![Record Card](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/P_V_Card_1.png)
 ![Record Card](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/P_V_Card_2.png)
 
-<img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/card_visualization.gif" alt="App_gif" width="700"/>
+<img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/card_visualization.gif" alt="App_gif" width="650" style="margin: auto"/>
 
 ### App Sketches
 
