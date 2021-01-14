@@ -103,7 +103,7 @@ The founding belief of the Trusted Pandemic Technologies is that when it comes t
 
 [Verifiable Proof of Health using Public Key Cryptography](https://arxiv.org/pdf/2012.02885.pdf) by Abhishek Singh and Ramesh Raskar
 
-[Safepaths: Vaccine Diary Protocol and Decentralized Vaccine Coordination System using a Privacy Preserving User Centric Experience](https://github.com/) by Abhishek Singh, Ramesh Raskar, and Anna Lysyanskaya
+[Safepaths: Vaccine Diary Protocol and Decentralized Vaccine Coordination System using a Privacy Preserving User Centric Experience](https://github.com/Path-Check/vaccine-diary/blob/main/Papers/safepaths.pdf) by Abhishek Singh, Ramesh Raskar, and Anna Lysyanskaya
 
 ## Team Background
 
