@@ -40,6 +40,7 @@ The founding belief of the Trusted Pandemic Technologies is that when it comes t
 ## News and Analysis
 
 [Privacy, equity, and efficiency in vaccine distribution - Boston Globe](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/Privacy%2C%20equity%2C%20and%20efficiency%20in%20vaccine%20distribution%20-%20The%20Boston%20Globe.pdf) by Ramesh Raskar
+
 ['When can I schedule a COVID-19 vaccine appointment?' Why the government can't answer this simple question](https://www.fastcompany.com/90593617/when-can-i-schedule-a-covid-19-vaccine-appoint-why-the-government-cant-answer-this-simple-question) by Hana Schank and Ramesh Raskar
 
 ## Team
