@@ -39,7 +39,8 @@ The founding belief of the Trusted Pandemic Technologies is that when it comes t
 
 ## News and Analysis
 
-[Privacy, equity, and efficiency in vaccine distribution - Boston Globe](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/Privacy%2C%20equity%2C%20and%20efficiency%20in%20vaccine%20distribution%20-%20The%20Boston%20Globe.pdf)
+[Privacy, equity, and efficiency in vaccine distribution - Boston Globe](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/Privacy%2C%20equity%2C%20and%20efficiency%20in%20vaccine%20distribution%20-%20The%20Boston%20Globe.pdf) by Ramesh Raskar
+['When can I schedule a COVID-19 vaccine appointment?' Why the government can't answer this simple question](https://www.fastcompany.com/90593617/when-can-i-schedule-a-covid-19-vaccine-appoint-why-the-government-cant-answer-this-simple-question) by Hana Schank and Ramesh Raskar
 
 ## Team
 
@@ -97,11 +98,11 @@ The founding belief of the Trusted Pandemic Technologies is that when it comes t
 
 [Mobile Apps Prioritizating Privacy, Efficiency, and Equity: A Decentralized Approach to COVID-19 Vaccination Coordination](https://github.com/Path-Check/vaccine-diary/blob/main/Papers/apps.pdf)
 
-[Vaccines for All: Challenges and Potential Solutions for Equitable COVID-19 Vaccine Distribution](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Papers/PositionPaper_VaccinesForAllConferenceAtMITDec11th.pdf)
+[Vaccines for All: Challenges and Potential Solutions for Equitable COVID-19 Vaccine Distribution](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Papers/PositionPaper_VaccinesForAllConferenceAtMITDec11th.pdf) by Joseph Bae, Susan Blumenthal, Jagjit Dhaliwal, Shirley Bergin, Sanjay Sarma, and Ramesh Raskar
 
-[Verifiable Proof of Health using Public Key Cryptography](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Papers/public_key_crypto.pdf)
+[Verifiable Proof of Health using Public Key Cryptography](https://arxiv.org/pdf/2012.02885.pdf) by Abhishek Singh and Ramesh Raskar
 
-[Safepaths: Vaccine Diary Protocol and Decentralized Vaccine Coordination System using a Privacy Preserving User Centric Experience](https://github.com/)
+[Safepaths: Vaccine Diary Protocol and Decentralized Vaccine Coordination System using a Privacy Preserving User Centric Experience](https://github.com/) by Abhishek Singh, Ramesh Raskar, and Anna Lysyanskaya
 
 ## Team Background
 
