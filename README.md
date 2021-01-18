@@ -95,7 +95,7 @@ The founding belief of the Trusted Pandemic Technologies is that when it comes t
 
 ## Papers
 
-[MIT SafePaths Card (MiSaCa): Augmenting Paper Based Vaccination Cards with Printed Codes](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/misaca.pdf) by Joseph Bae, Rohan Sukumaran, Sheshank Shankar, Saurish Srivastava, Rohan Iyer, Aryan Mahindra, Qamil Mirza, Maurizio Arseni, Anshuman Sharma, Saras Agrawal, Orna Mukhopadhyay, Colin Kang, Priyanshi Katiyar, Apurv Shekhar, Sifat Hasan, Krishnendu Dasgupta, Darshan Gandhi, Sethuraman TV, Parth Patwa, Abhishek Singh, and Ramesh Raskar
+[MIT SafePaths Card (MiSaCa): Augmenting Paper Based Vaccination Cards with Printed Codes](https://github.com/Path-Check/vaccine-diary/blob/main/Papers/misaca.pdf) by Joseph Bae, Rohan Sukumaran, Sheshank Shankar, Saurish Srivastava, Rohan Iyer, Aryan Mahindra, Qamil Mirza, Maurizio Arseni, Anshuman Sharma, Saras Agrawal, Orna Mukhopadhyay, Colin Kang, Priyanshi Katiyar, Apurv Shekhar, Sifat Hasan, Krishnendu Dasgupta, Darshan Gandhi, Sethuraman TV, Parth Patwa, Abhishek Singh, and Ramesh Raskar
 
 [Mobile Apps Prioritizating Privacy, Efficiency, and Equity: A Decentralized Approach to COVID-19 Vaccination Coordination](https://github.com/Path-Check/vaccine-diary/blob/main/Papers/apps.pdf)
 
