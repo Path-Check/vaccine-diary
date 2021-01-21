@@ -45,52 +45,19 @@ The founding belief of the Trusted Pandemic Technologies is that when it comes t
 
 ## Team
 
-[Ramesh Raskar](https://en.wikipedia.org/wiki/Ramesh_Raskar) - Associate Professor, MIT Media Lab
+MIT - [Ramesh Raskar](https://en.wikipedia.org/wiki/Ramesh_Raskar), [Sanjay Sarma](https://en.wikipedia.org/wiki/Sanjay_Sarma), [Abhishek Singh](https://www.linkedin.com/in/tremblerz/)
 
-[Sanjay Sarma](https://en.wikipedia.org/wiki/Sanjay_Sarma) - Vice President for Open Learning, MIT
+Brown University - [Anna Lysyanskaya](https://en.wikipedia.org/wiki/Anna_Lysyanskaya)
 
-[Anna Lysyanskaya](https://en.wikipedia.org/wiki/Anna_Lysyanskaya) - Professor, Brown University
+Stony Brook Medicine - [Joseph Bae](https://www.linkedin.com/in/josephhbae/)
 
-[Vitor Pamplona](https://www.linkedin.com/in/vitorpamplona/) - CEO EyeNetra INC
+PathCheck - [Vitor Pamplona](https://www.linkedin.com/in/vitorpamplona/) (CEO, EyeNetra INC), [Krishnendu Dasgupta](https://www.linkedin.com/in/krishdasgupta/), [Vinay Gidwaney](https://www.linkedin.com/in/gidwaney), [Rohan Sukumaran](https://www.linkedin.com/in/rohan-sukumaran-3271ba145/), [Rohan Iyer](https://www.linkedin.com/in/rohan-iyer-6aa614189/), [Priyanshi Katiyar](https://www.linkedin.com/in/priyanshi-katiyar-7222ba186/), [Sheshank Shankar](https://www.linkedin.com/in/sheshank-s/), [Adam Berrey](https://www.linkedin.com/in/adamberrey), [Anshuman Sharma](https://www.linkedin.com/in/sharmaanshuman/), [Ashley Mehra](http://linkedin.com/in/ashley-mehra-7b40a91a7), [Sethuraman T V](https://www.linkedin.com/in/sethuraman-t-v-64099b137/), [Darshan Gandhi](https://www.linkedin.com/in/gandhi-darshan/), [Mikhail Dmitrienko](https://www.linkedin.com/in/mikhail-dmitrienko-819735125/), [Nathan Yap](https://www.linkedin.com/in/nathan-yap-9b8301180/), [Saurish Srivastava](https://saurish.com) 
 
-[Abhishek Singh](https://www.linkedin.com/in/tremblerz/) - MIT Media Lab
+Jio - [Jatin Malhotra](https://www.linkedin.com/in/jatin1malhotra/)
 
-[Joseph Bae](https://www.linkedin.com/in/josephhbae/) - Stony Brook Medicine
+Institute for Technology and Global Health - [Maurizio Arseni](https://www.linkedin.com/in/maurizio-arseni/)
 
-[Krishnendu Dasgupta](https://www.linkedin.com/in/krishdasgupta/) - PathCheck
-
-[Vinay Gidwaney](https://www.linkedin.com/in/gidwaney) - PathCheck
-
-[Rohan Sukumaran](https://www.linkedin.com/in/rohan-sukumaran-3271ba145/) - PathCheck
-
-[Rohan Iyer](https://www.linkedin.com/in/rohan-iyer-6aa614189/) - PathCheck
-
-[Priyanshi Katiyar](https://www.linkedin.com/in/priyanshi-katiyar-7222ba186/) - PathCheck
-
-[Sheshank Shankar](https://www.linkedin.com/in/sheshank-s/) - PathCheck
-
-[Jatin Malhotra](https://www.linkedin.com/in/jatin1malhotra/) - Lead, App Partnership Jio
-
-[Maurizio Arseni](https://www.linkedin.com/in/maurizio-arseni/) - PathCheck, ITGH
-
-[Adam Berrey](https://www.linkedin.com/in/adamberrey) - PathCheck
-
-[Riyanka Roy Choudhury](https://law.stanford.edu/directory/riyanka-roy-choudhury/) - Stanford University, PathCheck
-
-[Anshuman Sharma](https://www.linkedin.com/in/sharmaanshuman/) - PathCheck
-
-[Ashley Mehra](http://linkedin.com/in/ashley-mehra-7b40a91a7) - PathCheck
-
-[Sethuraman T V](https://www.linkedin.com/in/sethuraman-t-v-64099b137/) - PathCheck
-
-[Darshan Gandhi](https://www.linkedin.com/in/gandhi-darshan/) - PathCheck
-
-[Mikhail Dmitrienko](https://www.linkedin.com/in/mikhail-dmitrienko-819735125/) - PathCheck
-
-[Nathan Yap](https://www.linkedin.com/in/nathan-yap-9b8301180/) - PathCheck
-
-[Saurish Srivastava](https://saurish.com) - PathCheck
-
+Stanford University - [Riyanka Roy Choudhury](https://law.stanford.edu/directory/riyanka-roy-choudhury/)
 
 
 ## Papers
