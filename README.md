@@ -31,7 +31,9 @@ The founding belief of the Trusted Pandemic Technologies is that when it comes t
 
 ### Slides and Events
 Vaccines for All Conference at MIT - [Pandemic.mit.edu](https://pandemic.mit.edu)
+
 Slides - [MIT, IDEO, PathCheck, CCI, VCI](https://tiny.cc/mitvax)
+
 Slides - [PaperCreds](https://tiny.cc/mitvacc2)
 
 ### VaccineDiary Mobile App
