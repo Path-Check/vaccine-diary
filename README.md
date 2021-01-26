@@ -16,7 +16,8 @@ Today, the program is focused on creating a citizen-centric solutions for the di
 The founding belief of the Trusted Pandemic Technologies is that when it comes to engaging citizens in a quest for the common good, especially public health, trust at all levels and among all participants is mandatory for success. So, the program builds on privacy-preserving systems for smartphone data, analytics, and machine learning.
 
 * [VaccineDiary Mobile App](#mobile-app)
-* [VaccineDiary Demo Video](https://www.youtube.com/watch?v=Tsv5T6MsZSY)
+* [VaccineDiary Demo Video](https://www.youtube.com/watch?v=njUGAN98PSk)
+* [Scanner App Video](https://www.youtube.com/watch?v=Tsv5T6MsZSY)
 * [News and Analysis](#news-and-analysis)
 * [Team](#Team)
 * [Papers](#papers)
