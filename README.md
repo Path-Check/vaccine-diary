@@ -46,7 +46,7 @@ Slides - [PaperCreds](https://tiny.cc/mitvacc2)
 <img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/vaccinediary.gif" alt="App_gif" width="300"/>
 
 ### QR code generator
-<img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/qr_ss.png" alt="Genrate QR Code" height="300" width="300"/>
+<img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/qr_ss.png" alt="Genrate QR Code"/>
 
 ### MIT SafePaths Solution
 <img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/safepaths_off_on.png" alt="Genrate QR Code" height="300" width="300"/>
