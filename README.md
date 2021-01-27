@@ -45,6 +45,9 @@ Slides - [PaperCreds](https://tiny.cc/mitvacc2)
 
 <img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/vaccinediary.gif" alt="App_gif" width="300"/>
 
+### QR code generator
+[<img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/qr_ss.png" alt="Genrate QR Code" height="75"/>]
+
 ## News and Analysis
 
 [Privacy, equity, and efficiency in vaccine distribution - Boston Globe](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/Privacy%2C%20equity%2C%20and%20efficiency%20in%20vaccine%20distribution%20-%20The%20Boston%20Globe.pdf) by Ramesh Raskar
