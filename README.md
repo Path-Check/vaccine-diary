@@ -37,11 +37,13 @@ Slides - [MIT, IDEO, PathCheck, CCI, VCI](https://tiny.cc/mitvax)
 
 Slides - [PaperCreds](https://tiny.cc/mitvacc2)
 
+
 ### VaccineDiary Mobile App
 [<img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/download_google_play.png" alt="Download on Play Store" height="75"/>](https://play.google.com/store/apps/details?id=org.pathcheck.boost)
 [<img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/download_app_store.png" alt="Download on App Store" height="75"/>](https://comingsoon.com)
 
 [VaccineDiary Demo Video](https://youtu.be/njUGAN98PSk)
+[MiSaCa + Boost-19 + Scanner App Video](https://youtu.be/jXa3mArrOfA)
 
 <img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/vaccinediary.gif" alt="App_gif" width="300"/>
 
