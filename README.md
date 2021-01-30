@@ -59,6 +59,8 @@ Slides - [PaperCreds](https://tiny.cc/mitvacc2)
 
 ['When can I schedule a COVID-19 vaccine appointment?' Why the government can't answer this simple question](https://www.fastcompany.com/90593617/when-can-i-schedule-a-covid-19-vaccine-appoint-why-the-government-cant-answer-this-simple-question) by Hana Schank and Ramesh Raskar
 
+[Paper Cards and Digital Codes Target Vaccination Chaos](https://spectrum.ieee.org/tech-talk/biomedical/devices/paper-cards-and-digital-codes-target-vaccination-chaos) by Jeremy Hsu
+
 ## Team
 
 MIT - [Ramesh Raskar](https://en.wikipedia.org/wiki/Ramesh_Raskar), [Sanjay Sarma](https://en.wikipedia.org/wiki/Sanjay_Sarma), [Abhishek Singh](https://www.linkedin.com/in/tremblerz/)
