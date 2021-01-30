@@ -107,6 +107,8 @@ Stanford University - [Riyanka Roy Choudhury](https://law.stanford.edu/directory
     - Robert Wood Johnson Foundation Emergency Response for the Health Care System Innovation Challenge - [Second Place](https://www.healthsystemcrisisresponse.com/)
     - Facebook COVID-19 Symptom Data Challenge (jointly run by CMU, UMD, and Duke University) - [Finalist](https://www.businesswire.com/news/home/20201214005670/en/Announcing-The-COVID-19-Symptom-Data-Challenge-Winners)
     - NIST Too Close for Too Long (TC4TL) Challenge first round - 1st Place
+    
+- Talk at [NIST Challenges for Digital Proximity Detection in Pandemics Event](https://www.nist.gov/system/files/documents/2021/01/20/Agenda%20_NIST_Proximity_Detection_Workshop_Jan20Revision.pdf#page=7)
 
 - Host of convening events for COVID-19 digital solutions (https://pandemic.mit.edu) and (https://responsibledata.ai/events/trust)
 
