@@ -113,7 +113,7 @@ Stanford University - [Riyanka Roy Choudhury](https://law.stanford.edu/directory
     - Facebook COVID-19 Symptom Data Challenge (jointly run by CMU, UMD, and Duke University) - [Finalist](https://www.businesswire.com/news/home/20201214005670/en/Announcing-The-COVID-19-Symptom-Data-Challenge-Winners)
     - NIST Too Close for Too Long (TC4TL) Challenge first round - 1st Place
     
-- Talk at [NIST Challenges for Digital Proximity Detection in Pandemics Event](https://www.nist.gov/system/files/documents/2021/01/20/Agenda%20_NIST_Proximity_Detection_Workshop_Jan20Revision.pdf#page=7)
+- Talk at [NIST Challenges for Digital Proximity Detection in Pandemics Event](https://www.nist.gov/system/files/documents/2021/02/04/Contributed_2_6_Sheshank_Shankar%20-%20The%20Feasibility%20of%20Co-location%20Detection%20through%20a%20Deep%20Learning%20Fusion%20of%20Mobile%20Sensors.pdf)
 
 - Host of convening events for COVID-19 digital solutions (https://pandemic.mit.edu) and (https://responsibledata.ai/events/trust)
 
