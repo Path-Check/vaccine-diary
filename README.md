@@ -83,7 +83,7 @@ Stanford University - [Riyanka Roy Choudhury](https://law.stanford.edu/directory
 
 [MIT SafePaths Card (MiSaCa): Augmenting Paper Based Vaccination Cards with Printed Codes](https://github.com/Path-Check/vaccine-diary/blob/main/Papers/misaca.pdf) by Joseph Bae, Rohan Sukumaran, Sheshank Shankar, Saurish Srivastava, Rohan Iyer, Aryan Mahindra, Qamil Mirza, Maurizio Arseni, Anshuman Sharma, Saras Agrawal, Orna Mukhopadhyay, Colin Kang, Priyanshi Katiyar, Apurv Shekhar, Sifat Hasan, Krishnendu Dasgupta, Darshan Gandhi, Sethuraman TV, Parth Patwa, Ishaan Singh, Abhishek Singh, and Ramesh Raskar
 
-[Mobile Apps Prioritizating Privacy, Efficiency, and Equity: A Decentralized Approach to COVID-19 Vaccination Coordination](https://github.com/Path-Check/vaccine-diary/blob/main/Papers/apps.pdf)
+[Mobile Apps Prioritizating Privacy, Efficiency, and Equity: A Decentralized Approach to COVID-19 Vaccination Coordination](https://github.com/Path-Check/vaccine-diary/blob/main/Papers/apps.pdf) by Joseph Bae, Rohan Sukumaran, Sheshank Shankar, Anshuman Sharma, Ishaan Singh, Haris Nazir, Colin Kang, Saurish Srivastava, Parth Patwa, Abhishek Singh, Priyanshi Katiyar, Vitor Pamplona, and Ramesh Raskar
 
 [Vaccines for All: Challenges and Potential Solutions for Equitable COVID-19 Vaccine Distribution](https://github.com/mikhaildmitrienko/VaccineDiary/blob/main/Papers/PositionPaper_VaccinesForAllConferenceAtMITDec11th.pdf) by Joseph Bae, Susan Blumenthal, Jagjit Dhaliwal, Shirley Bergin, Sanjay Sarma, and Ramesh Raskar
 
