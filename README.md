@@ -40,7 +40,7 @@ Slides - [PaperCreds](https://tiny.cc/mitvacc2)
 
 ### VaccineDiary Mobile App
 [<img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/download_google_play.png" alt="Download on Play Store" height="75"/>](https://play.google.com/store/apps/details?id=org.pathcheck.boost)
-[<img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/download_app_store.png" alt="Download on App Store" height="75"/>](https://comingsoon.com)
+[<img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/download_app_store.png" alt="Download on App Store" height="75"/>](https://pathcheck.org)
 
 [VaccineDiary Demo Video](https://youtu.be/njUGAN98PSk)
 
@@ -53,7 +53,7 @@ Slides - [PaperCreds](https://tiny.cc/mitvacc2)
 ### QR code generator - https://github.com/Path-Check/healthpassport-reader-app
 [Live demo of QR code for Coupon, Badge, Status and Passkey](https://vitorpamplona.com/vaccine-certificate-qrcode-generator/)
 
-<img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/qr_ss.png" alt="Genrate QR Code"/>
+<img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/qr_ss.png" alt="Genrate QR Code"/> (https://vitorpamplona.com/vaccine-certificate-qrcode-generator/)
 
 ### MIT SafePaths Solution
 <img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/safepaths_off_on.png" alt="Genrate QR Code" height="300"/>
