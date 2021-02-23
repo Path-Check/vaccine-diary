@@ -53,7 +53,7 @@ Slides - [PaperCreds](https://tiny.cc/mitvacc2)
 ### QR code generator - https://github.com/Path-Check/healthpassport-reader-app
 [Live demo of QR code for Coupon, Badge, Status and Passkey](https://vitorpamplona.com/vaccine-certificate-qrcode-generator/)
 
-<img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/qr_ss.png" alt="Genrate QR Code"/> (https://vitorpamplona.com/vaccine-certificate-qrcode-generator/)
+[<img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/qr_ss.png" alt="Genrate QR Code"/>](https://vitorpamplona.com/vaccine-certificate-qrcode-generator/)
 
 ### MIT SafePaths Solution
 <img src="https://github.com/Path-Check/vaccine-diary/blob/main/Resources/safepaths_off_on.png" alt="Genrate QR Code" height="300"/>
