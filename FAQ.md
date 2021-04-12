@@ -36,7 +36,7 @@ Identification of an individual for record-keeping is performed using a pseudora
 We expect users seeking a privacy oriented approach to vaccination to use a physical card containing a digitally-signed QR code from the government. 
 
 ### What is PathCheck and what role can it play?
-PathCheck is a nonprofit organization originating in Dr. Ramesh Raskar’s lab at MIT. PathChck is  the world’s largest open source, open standards nonprofit organization for COVID-19 and innovates  across a broad array of problems stemming from the pandemic. PathCheck was the first organization to launch an EN app for contact tracing in COVID-19, successfully partnering with 6 US states and territories. 
+PathCheck is a nonprofit organization originating in Dr. Ramesh Raskar’s lab at MIT. PathCheck is  the world’s largest open source, open standards nonprofit organization for COVID-19 and innovates  across a broad array of problems stemming from the pandemic. PathCheck was the first organization to launch an EN app for contact tracing in COVID-19, successfully partnering with 6 US states and territories. 
 
 ### What is MIT SafePaths? What is its role?
 MIT SafePaths is a set of standards protocols and algorithms and open-source tools. The project on vaccination protocols is led by Ramesh Raskar at Trusted Pandemic Tech and MIT Media Lab, Sanjay Sarma at MIT Auto-ID Lab and Anna Lysyanskaya at Brown University. 
